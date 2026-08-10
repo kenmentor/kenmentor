@@ -1,2 +1,2 @@
-# We are just doing your best everyday 
+# LOVE WHAT I DO 
 ## every single day 
