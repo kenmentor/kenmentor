@@ -11,5 +11,5 @@ Computer Science undergrad building at the intersection of hardware, core algori
 
 ### Tech Stack
 * **Languages:** Python, C/C++, TypeScript, Go
-* **Tooling:** PyTorch, NumPy, OpenCV, FastAPI, Node.js, Cloudflare, Redis
+* **Tooling:** any thing that gets the job done 
 
